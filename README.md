@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @godxanubis80085
 - 👀 I’m interested in whichever thing has good money in it.
-- 🌱 I’m currently learning .NET , C# ,etc.
+- 🌱 I’m currently learning GO LANG , C , COBOL ,etc.
 - 💞️ I’m looking to collaborate  maybe in future.
 - 📫 How to reach me by mail anubisgodof@dead.su
 
